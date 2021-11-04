@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Clean_Architecture.Doamin</RootNamespace>
+    <RootNamespace>Clean_Architecture.Domain</RootNamespace>
   </PropertyGroup>
 
 </Project>

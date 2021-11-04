@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -8,7 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Clean-Architecture.Application\Clean-Architecture.Application.csproj" />
     <ProjectReference Include="..\Clean-Architecture.Data\Clean-Architecture.Data.csproj" />
-    <ProjectReference Include="..\Clean-Architecture.Doamin\Clean-Architecture.Doamin.csproj" />
+	<ProjectReference Include="..\Clean-Architecture.Domain\Clean-Architecture.Domain.csproj" />
   </ItemGroup>
 
 </Project>
